@@ -1,0 +1,60 @@
+.logo{
+    position: absolute;
+}
+.menu{
+    float: right;
+}
+.menu ul{
+    list-style-type: none;
+
+}
+.menu ul li{
+    display: inline-grid;
+    padding: 15px 15px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #5a6268;
+}
+.menu .active{
+    color: #c3bcae;
+}
+.menu ul li a:hover{
+    color: #dae0e5;
+}
+.contact_title{
+    padding: 30vh 10vh 0vh;
+    color: #dae0e5;
+}
+.contact_list{
+    padding: 5vh 20vh;
+    color: #dae0e5;
+}
+#home_body{
+    padding-top: 35vh;
+}
+.home_intro{
+    padding: 5vh;
+    position: absolute;
+    color: #dae0e5;
+}
+.highlights{
+    color: #dae0e5;
+}
+.click_here button{
+    border-radius: 2px;
+    background-color: transparent;
+}
+
+#about_intro{
+    padding-top: 30vh;
+    color: #dae0e5;
+}
+#avatar{
+
+}
+#about_text{
+    padding: 4vh;
+    color: #dae0e5;
+}
+
